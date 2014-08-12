@@ -1,4 +1,5 @@
-This is a sample project students can use during Matthew's Git class.
+# Example Maven
+This is a projct to show maven builds as well as general Git and GitHub workflows
 
 Here is an addition by me
 
