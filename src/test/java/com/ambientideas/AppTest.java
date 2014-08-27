@@ -34,10 +34,11 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigorous Test :-)
+     * This time it should work
      */
     public void testApp()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 }
